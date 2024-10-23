@@ -27,25 +27,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6O2O7Si.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An end user can submit a ticket through various communication channels such as email, web form, or phone. Then the ticket is created in the system and it is categorized based on the predefined criteria (department, help topic, prioritym etc). For this example I went and created a ticket through a web form and selected the best help topic that is appropriate for the problem. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/paMFnKK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket is then assigned to an agent or a team. It can be done automatically or by a supervisor. The ticket's priority and due date may be set at this stage. Then the assigned agent or team reviews the ticket and responds to the end user or customer, seeking additional information if necessary or providing a solution. This is basically what I did at this stage. I assigned the ticket to an agent that I craeted and communicated with them to find a solution. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8Omre7u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Working the issue is the next step. This is where an agent works on diagnosing the problem by performing tests, gathering data or consulting internal knowledge bases such as talking to other agents. The picture above is an example of me asking another agent for help and that agent seems to have found the problem. Once the root cause was identified, I implemented a solution and provided a temporary workound. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/E8EzTbt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The resolution is the final step. Yet again once I found the solution, I applied the fix. I updated the ticket status to "resolved". This indicates that the problem has been adressed. Then after some time, the ticket is then marked as closed. 
 </p>
 <br />
